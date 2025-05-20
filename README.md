@@ -1,4 +1,4 @@
-## Olá, eu sou o Yuri Ribeiro, Analista e Desenvolvedor de Sistemas!
+## Olá, eu sou o Yuri Ribeiro!
 
 <div>
   <a href="https://beacons.ai/yuriribeiro469"><br>
