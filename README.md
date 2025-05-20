@@ -1,7 +1,6 @@
 ## Olá, eu sou o Yuri Ribeiro!
 
-<div>
-  <a href="https://beacons.ai/yuriribeiro469"><br>
+<div><br>
    <img height="190em" width="50%" src="https://github-readme-stats-git-master-yuri-ribeiros-projects.vercel.app/api?username=YuriRibeiro469&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" />
    <img height="190em" width="42%" src="https://github-readme-stats-git-master-yuri-ribeiros-projects.vercel.app/api/top-langs/?username=YuriRibeiro469&langs_count=16&theme=dark#gh-dark-mode-only&hide_border=false"/>
 </div>
