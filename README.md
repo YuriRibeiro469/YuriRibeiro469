@@ -1,4 +1,4 @@
-## Olá, eu sou o Yuri Ribeiro!
+## Olá!
 
 <div><br>
    <img height="190em" width="50%" src="https://github-readme-stats-git-master-yuri-ribeiros-projects.vercel.app/api?username=YuriRibeiro469&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" />
